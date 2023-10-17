@@ -16,10 +16,16 @@ p {
     font-size: 1.25em;
 }
 
-ul {
-    font-size: 1.15em;
+ul,ol {
+    font-size: 1.25em;
 }
 
 li {
     margin-bottom: 5px;
+    width: 75vw;
+}
+
+img {
+    margin-top: 5px;
+    border-radius: 6px;
 }
