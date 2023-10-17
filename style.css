@@ -1,0 +1,21 @@
+html {
+    color: white;
+    background-color: #333333;
+    font-family: sans-serif;
+}
+
+a {
+    color: slategray;
+}
+
+a:visited {
+    color: gray;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+ul {
+    font-size: 1.15em;
+}
